@@ -17,11 +17,11 @@ This simple, responsive page is built with HTML, CSS, and includes:
 
 ## 🌍 Live Site
 
-👉 Coming soon at: `https://yourusername.github.io/zador-coming-soon/`
+👉 Coming soon at: `https://.github.io/zador-coming-soon/`
 
 ## 📫 Contact
 
-📧 Email: [your-email@example.com]  
+📧 Email: zadorguy@gmail.com  
 💬 WhatsApp: +233 593 120 884
 
 ---
